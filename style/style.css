@@ -13,6 +13,10 @@ header {
 }
 
 
+p {
+	text-align:center-left;
+	
+}
 
 
 section {
@@ -21,9 +25,14 @@ section {
 	border-bottom-color: #e1e1e1;
 	display:flex;
 	
+	
 }
-
-
+ 
+.padding {
+	padding-right:100px;
+	display:block;
+	
+}
 
 .blue{
 	color:#3d85c6;
