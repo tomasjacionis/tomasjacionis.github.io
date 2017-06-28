@@ -14,7 +14,6 @@
 
 header {
 	border-bottom-style : dotted;
-	border: 1 px;
 	border-bottom-color: #e1e1e1;
 	
 }
@@ -26,15 +25,10 @@ header {
 	
 }
 
-p {
-	text-align:center-left;
-
-}
 
 
 section {
 	border-bottom-style : dotted;
-	border: 1 px;
 	border-bottom-color: #e1e1e1;
 	display:flex;
 	
