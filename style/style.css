@@ -3,6 +3,13 @@
     padding-left:100px;
 	padding-right:100px;
 	max-width:1020px;
+	
+}
+
+
+.with{
+	width:100px;
+	
 }
 
 header {
@@ -15,12 +22,13 @@ header {
 
 .bold{
 	font-weight:bold;
+
 	
 }
 
 p {
 	text-align:center-left;
-	
+
 }
 
 
@@ -35,6 +43,7 @@ section {
  
 div{
 	padding-left:40px;
+	width: 100%;
 
 	
 }
