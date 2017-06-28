@@ -6,7 +6,7 @@
 }
 
 .section-content {
-	flex:7;
+	flex:6;
 	
 }
 
@@ -29,6 +29,7 @@ header {
 
 
 section {
+	
 	border-bottom-style : dotted;
 	border-bottom-color: #e1e1e1;
 	display:flex;
