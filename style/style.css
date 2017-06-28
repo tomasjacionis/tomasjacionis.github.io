@@ -1,6 +1,6 @@
 .container {
     margin: auto;
-    padding:0 100px 100px;
+    padding:0px 100px 0px;
 	max-width:1020px;
 	
 }
@@ -9,8 +9,7 @@
 
 
 header {
-	margin: auto;
-    padding:0px 100px 0px 100px;
+	
 	border-bottom-style : dotted;
 	border-bottom-color: #e1e1e1;
 	
