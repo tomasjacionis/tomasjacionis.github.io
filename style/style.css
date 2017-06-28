@@ -1,12 +1,12 @@
 .container {
     margin: auto;
-    padding:0px 100px 0px;
+    padding:0px 100px;
 	max-width:1020px;
 	
 }
 
 .section-content {
-	flex:6;
+	flex:4;
 	
 }
 
