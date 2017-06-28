@@ -1,6 +1,6 @@
-.center {
+.container {
     margin: auto;
-    padding:0px 100px 0px 100px;
+    padding:0 100px 100px;
 	max-width:1020px;
 	
 }
@@ -9,6 +9,8 @@
 
 
 header {
+	margin: auto;
+    padding:0px 100px 0px 100px;
 	border-bottom-style : dotted;
 	border-bottom-color: #e1e1e1;
 	
@@ -31,11 +33,7 @@ section {
 	
 }
  
-div{
-	width: 100%;
 
-	
-}
 
 .blue{
 	color:#3d85c6;
