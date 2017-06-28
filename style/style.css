@@ -13,6 +13,11 @@ header {
 }
 
 
+.bold{
+	font-weight:bold;
+	
+}
+
 p {
 	text-align:center-left;
 	
