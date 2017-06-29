@@ -10,6 +10,12 @@
 	
 }
 
+ul {
+  list-style-type: none;
+  padding: 0;
+  
+  
+}
 
 
 header {
@@ -17,7 +23,6 @@ header {
 	border-bottom-style : dotted;
 	border-bottom-color: #e1e1e1;
     margin: auto;
-    padding:0px 100px;
 	max-width:1020px;
 	
 }
