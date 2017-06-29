@@ -16,9 +16,9 @@ header {
 	
 	border-bottom-style : dotted;
 	border-bottom-color: #e1e1e1;
-    position: relative;
-	left:110px;
-	width:1020px;
+    margin: auto;
+    padding:0px 100px;
+	max-width:1020px;
 	
 }
 
